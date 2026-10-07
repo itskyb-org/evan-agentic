@@ -1,0 +1,1 @@
+This is an application that has a database and contains user information.
